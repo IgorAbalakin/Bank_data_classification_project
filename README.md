@@ -1,4 +1,4 @@
-# Bank_data_classification_project
+# PROJECT-4. Задача классификации
 
 ### Оглавление 
 [1. Описание проекта](https://github.com/IgorAbalakin/Bank_data_classification_project/blob/main/README.md#Описание-проекта) 
